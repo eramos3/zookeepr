@@ -126,6 +126,17 @@
         "1"
       ],
       "id": "12"
+    },
+    {
+      "name": "Pancho",
+      "species": "Gorilla ",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
